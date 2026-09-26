@@ -32,6 +32,12 @@
 { "url":"wind.wav", "type":"audio","bank":"wind","n":0},
 { "url":"windchimes.wav", "type":"audio","bank":"windchimes","n":0},
 { "url":"yeah.wav", "type":"audio","bank":"yeah","n":0},
-{ "url":"yeah0.wav", "type":"audio","bank":"yeah","n":1}
+{ "url":"yeah0.wav", "type":"audio","bank":"yeah","n":1},
+{ "url":"clock1.wav", "type":"audio","bank":"clock","n":0}, 
+{ "url":"clock2.wav", "type":"audio","bank":"clock","n":1},
+{ "url":"clock3.wav", "type":"audio","bank":"clock","n":2},
+{ "url":"clock4.wav", "type":"audio","bank":"clock","n":3}
+
+
   
 ]
